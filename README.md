@@ -3,9 +3,13 @@
 To write a sql query to fetch "FIRST_NAME" from the worker table using the alias name from the sample data.
 ## PROCEDURE:
 ### STEP 1:
+create database ORG.
 ### STEP 2:
+create table Worker,Bonus,Title.
 ### STEP 3:
+Insert Value to the tables.
 ### STEP 4:
+Select firstname from the table worker as name.
 ## PROGRAM:
 ```sql
 CREATE DATABASE ORG;
